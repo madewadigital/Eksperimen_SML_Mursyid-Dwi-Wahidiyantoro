@@ -1,5 +1,7 @@
 # Eksperimen SML - Mursyid Dwi Wahidiyantoro
 
+![Preprocessing CI](https://github.com/madewadigital/Eksperimen_SML_Mursyid-Dwi-Wahidiyantoro/actions/workflows/preprocessing.yml/badge.svg)
+
 Repository ini memuat eksperimen eksplorasi data analisis (EDA) dan otomatisasi data preprocessing untuk Heart Disease Classification.
 
 ## Struktur Repository
